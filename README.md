@@ -35,11 +35,18 @@ With professional experience across frontend, backend APIs, cloud deployment, an
 
 ### Frontend
 
-* React             * Tailwind CSS     * HeroUI
-* Next.js           * HTML5            * shadcn/ui
-* TypeScript        * CSS3             * React Query
-* JavaScript        * Bootstrap        * React Hook Form
-
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* HTML5
+* CSS3
+* Bootstrap
+* HeroUI
+* shadcn/ui
+* React Query
+* React Hook Form
 
 ### Backend
 
