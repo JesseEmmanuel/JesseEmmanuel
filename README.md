@@ -11,19 +11,24 @@
 
 ## 🚀 About Me
 
-I build modern, responsive, and dynamic web applications with a strong focus on intuitive user interfaces and scalable backends. I thrive in Agile environments, whether I'm architecting RESTful APIs, configuring high-availability servers, or designing complex frontend forms. 
+- 💼 Software Developer with experience building production-ready web applications
+- ⚛️ Specialized in React, Next.js, and TypeScript
+- 🔗 Experienced in designing and integrating REST APIs
+- ☁️ Familiar with deploying applications on AWS
+- 🧠 Passionate about writing clean, scalable, and maintainable software
+- 🌱 Currently learning System Design, Docker, and advanced cloud architecture 
 
 ## 💼 Professional Journey
-**Junior Systems Engineer**
+**Junior Systems Engineer:**
 Started my career managing Linux servers, database replication, and enterprise infrastructure.
 
-**WordPress Developer**
+**WordPress Developer:**
 Built responsive websites, customized themes, improved performance, and supported multiple clients.
 
-**Full Stack Developer**
+**Full Stack Developer:**
 Developed REST APIs using Laravel, NestJS, Django, and Prisma while collaborating closely with frontend teams.
 
-**Frontend Developer**
+**Frontend Developer:**
 Currently focused on building modern applications using React, Next.js, TypeScript, React Query, React Hook Form, Zod, and shadcn/ui.
 
 ## 💻 Tech Stack
