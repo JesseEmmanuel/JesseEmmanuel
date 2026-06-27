@@ -1,159 +1,54 @@
-┌────────────────────────────────────────────────────────────┐
-
-              JESSE EMMANUEL BASCO
-
-            Frontend Software Developer
-
-      React • Next.js • TypeScript • Laravel
-
-      Building scalable software with clean code.
-
-└────────────────────────────────────────────────────────────┘
-
-# Hi, I'm Jesse Emmanuel Basco 👋
-
-### Full-stack Web Developer • React • Next.js • TypeScript
-
-I build modern, scalable web applications with a focus on clean architecture, maintainable code, and great user experiences.
-
-With professional experience across frontend, backend APIs, cloud deployment, and Linux infrastructure, I enjoy solving real-world problems and continuously improving as a software engineer.
+<div align="center">
+  <h1>Hi there! 👋 I'm Jesse Emmanuel Basco</h1>
+  <h3>Web & Software Developer</h3>
+  <p>Based in the Philippines 🇵🇭</p>
+  
+  <a href="https://jesse-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-jesse--dev.vercel.app-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="mailto:jesseemmanuel@gmail.com"><img src="https://img.shields.io/badge/Email-jesseemmanuel%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Software Developer with experience building production-ready web applications
-* ⚛️ Specialized in React, Next.js, and TypeScript
-* 🔗 Experienced in designing and integrating REST APIs
-* ☁️ Familiar with deploying applications on AWS
-* 🧠 Passionate about writing clean, scalable, and maintainable software
-* 🌱 Currently learning System Design, Docker, and advanced cloud architecture
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* HTML5
-* CSS3
-* Bootstrap
-* HeroUI
-* shadcn/ui
-* React Query
-* React Hook Form
-
-### Backend
-
-* Laravel
-* NestJS
-* Django
-* PHP
-* Prisma
-
-### Database
-
-* PostgreSQL
-* MySQL
-
-### Cloud & DevOps
-
-* AWS (Elastic Beanstalk, RDS)
-* Linux
-* Dokku
-
-### Realtime
-
-* Pusher
-* Socket.IO
-
-### Tools
-
-* Git
-* GitHub
-* Bitbucket
-* Jira
-* VS Code
-
----
+I build modern, responsive, and dynamic web applications with a strong focus on intuitive user interfaces and scalable backends. I thrive in Agile environments, whether I'm architecting RESTful APIs, configuring high-availability servers, or designing complex frontend forms. 
 
 ## 💼 Professional Journey
-
-### Junior Systems Engineer
-
+**Junior Systems Engineer**
 Started my career managing Linux servers, database replication, and enterprise infrastructure.
 
-### WordPress Developer
-
+**WordPress Developer**
 Built responsive websites, customized themes, improved performance, and supported multiple clients.
 
-### Full Stack Developer
-
+**Full Stack Developer**
 Developed REST APIs using Laravel, NestJS, Django, and Prisma while collaborating closely with frontend teams.
 
-### Frontend Developer
-
+**Frontend Developer**
 Currently focused on building modern applications using React, Next.js, TypeScript, React Query, React Hook Form, Zod, and shadcn/ui.
 
----
+## 💻 Tech Stack
 
-## 🌟 Featured Projects
+**Frontend Engineering**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
 
-Here are a few projects that best showcase my skills.
+**Backend & Databases**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-* 🚀 Production Dashboard
-* 📊 Inventory Management System
-* 🛒 Dealer Portal
-* 📱 Responsive Landing Pages
-* 🔗 REST API Integrations
-* 🎨 Reusable React Component Library
+**Cloud, DevOps & Real-Time**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
----
-
-## 📚 Currently Learning
-
-* System Design
-* Docker
-* AWS Architecture
-* Software Architecture
-* Performance Optimization
-
----
-
-## 💡 My Development Philosophy
-
-I believe software should be:
-
-* Easy to understand
-* Easy to maintain
-* Easy to scale
-
-I enjoy solving challenging problems and continuously improving both my technical skills and the quality of the software I build.
-
----
-
-## 🎮 Outside Programming
-
-When I'm away from the keyboard, you'll probably find me:
-
-* 🎮 Playing Souls-like games
-* 🎧 Listening to punk rock
-* 📺 Watching anime
-* 📖 Exploring new technologies
-
----
-
-## 🤝 Let's Connect
-
-* Portfolio: https://jesse-dev.vercel.app/
-* LinkedIn: *(Add your LinkedIn URL here)*
-* Email: [jesseemmanuel@gmail.com](mailto:jesseemmanuel@gmail.com)
-
----
-
-⭐ Thanks for visiting my profile!
+## 📸 Outside of Code
+🎮 Playing Souls-like games
+🎧 Listening to punk rock
+📺 Watching anime
+📖 Exploring new technologies
